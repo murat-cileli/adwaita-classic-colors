@@ -7,3 +7,7 @@ Refreshed new Adwaita theme with classic Adwaita colors. Actually it's a bit lig
 
 1. Make directory ~/.themes/Adwaita-Classic-Colors
 2. Download and extract files into ~/.themes/Adwaita-Classic-Colors
+
+### TO-DO
+
+* Fix Nautilus path bar.
