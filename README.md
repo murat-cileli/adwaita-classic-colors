@@ -10,4 +10,4 @@ Refreshed new Adwaita theme with classic Adwaita colors. Actually it's a bit lig
 
 ### TO-DO
 
-* Fix Nautilus path bar.
+* ~~Fix Nautilus path bar.~~
