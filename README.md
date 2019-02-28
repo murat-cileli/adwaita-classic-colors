@@ -1,7 +1,7 @@
 # Adwaita Creamy
 Refreshed new Adwaita theme with creamy colors and minor changes.
 
-![screenshot from 2019-02-28 03-40-01](https://user-images.githubusercontent.com/6532000/53533110-98284b00-3b0a-11e9-9955-d7ef0bfc87f2.png)
+![adwaita-creamy-comparison](https://user-images.githubusercontent.com/6532000/53536010-be9fb380-3b15-11e9-990c-2c90676267c6.png)
 
 ### Installation
 
