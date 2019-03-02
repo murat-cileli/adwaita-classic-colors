@@ -9,7 +9,7 @@ Refreshed new Adwaita theme with creamy colors and minor changes.
 2. Download and extract files into ~/.themes/Adwaita-Creamy
 
 ###### AUR Package for Arch-based Distros
-~https://aur.archlinux.org/packages/adwaita-creamy/~
+https://aur.archlinux.org/packages/adwaita-creamy/
 
 ### TO-DO
 
