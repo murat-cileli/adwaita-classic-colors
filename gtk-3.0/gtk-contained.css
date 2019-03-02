@@ -1020,13 +1020,13 @@ scrollbar { background-color: transparent; transition: 300ms cubic-bezier(0.25, 
 
 * { -GtkScrollbar-has-backward-stepper: false; -GtkScrollbar-has-forward-stepper: false; }
 
-scrollbar.top { border-bottom: 1px solid #c2c2bf; }
+scrollbar.top { border-bottom: none; }
 
-scrollbar.bottom { border-top: 1px solid #c2c2bf; }
+scrollbar.bottom { border-top: none; }
 
-scrollbar.left { border-right: 1px solid #c2c2bf; }
+scrollbar.left { border-right: none; }
 
-scrollbar.right { border-left: 1px solid #c2c2bf; }
+scrollbar.right { border-left: none; }
 
 scrollbar:backdrop { background-color: #e8e8e6; border-color: #cbcbc8; transition: 200ms ease-out; }
 
