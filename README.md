@@ -8,6 +8,9 @@ Refreshed new Adwaita theme with creamy colors and minor changes.
 1. Make directory ~/.themes/Adwaita-Creamy
 2. Download and extract files into ~/.themes/Adwaita-Creamy
 
+###### AUR Package for Arch-based Distros
+~https://aur.archlinux.org/packages/adwaita-creamy/~
+
 ### TO-DO
 
 * ~~Fix Nautilus path bar.~~
