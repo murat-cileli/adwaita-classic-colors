@@ -5,8 +5,8 @@ Refreshed new Adwaita theme with creamy colors and minor changes.
 
 ### Installation
 
-1. Make directory ~/.themes/Adwaita-Creamy
-2. Download and extract files into ~/.themes/Adwaita-Creamy
+1. Make directory ~/.themes/adwaita-creamy
+2. Download and extract files into ~/.themes/adwaita-creamy
 
 ###### AUR Package for Arch-based Distros
 https://aur.archlinux.org/packages/adwaita-creamy/
