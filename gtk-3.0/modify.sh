@@ -18,6 +18,7 @@ sed -i 's/#faf9f8/#fafafa/g' gtk-contained.css
 sed -i 's/#eae8e6/#eaeaea/g' gtk-contained.css
 sed -i 's/#d5d0cc/#d5d5d5/g' gtk-contained.css
 sed -i 's/#ffffff/#fcfcfc/g' gtk-contained.css
+sed -i 's/#edebe9/#ebebeb/g' gtk-contained.css
 sed -i 's/to top, #ececec, #efefef/to top, #efefef, #e3e3e3/g' gtk-contained.css
 sed -i 's/border-style: solid; border-color: #ccc;/border-style: solid; border-color: #d5d5d5;/g' gtk-contained.css
 sed -i 's/rgba(0, 0, 0, 0.5), 0 0 0 1px rgba(0, 0, 0, 0.23);/rgba(50, 50, 50, 0.25), 0 0 0 1px rgba(50, 50, 50, 0.1);/g' gtk-contained.css
