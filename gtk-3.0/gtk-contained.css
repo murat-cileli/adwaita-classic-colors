@@ -1883,11 +1883,11 @@ colorswatch#editor-color-sample overlay { border-radius: 4.5px; }
 colorchooser .popover.osd { border-radius: 5px; }
 
 /******** Misc * */
-.content-view { background-color: #e6e3e0; }
+.content-view { background-color: #e5e5e5; }
 
 .content-view:hover { -gtk-icon-effect: highlight; }
 
-.content-view:backdrop { background-color: #e6e3e0; }
+.content-view:backdrop { background-color: #e5e5e5; }
 
 .osd .scale-popup button.flat { border-style: none; border-radius: 5px; }
 
