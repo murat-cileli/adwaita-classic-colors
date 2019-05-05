@@ -11,5 +11,5 @@ Refreshed new Adwaita theme with creamy colors and minor changes.
 
 2. Run "GNOME Tweaks" and Select "Appearence -> Themes - > Adwaita-creamy".
 
-##### AUR Package for Arch-based Distros
-https://aur.archlinux.org/packages/adwaita-creamy/
+#### AUR Package for Arch-based Distros
+https://aur.archlinux.org/packages/adwaita-creamy-gtk-theme/
