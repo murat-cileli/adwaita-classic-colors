@@ -13,3 +13,5 @@ Refreshed new Adwaita theme with creamy colors and minor changes.
 
 #### AUR Package for Arch-based Distros
 https://aur.archlinux.org/packages/adwaita-creamy-gtk-theme/
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40murat_cileli)](https://twitter.com/murat_cileli)

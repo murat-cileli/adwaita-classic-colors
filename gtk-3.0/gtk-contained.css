@@ -12,7 +12,7 @@
 
 .gtkstyle-fallback:hover { color: #2e3436; background-color: #fdfdfd; }
 
-.gtkstyle-fallback:active { color: #2e3436; background-color: #dfdcd8; }
+.gtkstyle-fallback:active { color: #2e3436; background-color: #dfdfdf; }
 
 .gtkstyle-fallback:disabled { color: #929595; background-color: #fafafa; }
 
@@ -602,7 +602,7 @@ searchbar > revealer > box { margin: -6px; padding: 6px; }
 .inline-toolbar:backdrop, searchbar > revealer > box:backdrop, .location-bar:backdrop { border-color: #d5d5d5; background-color: #eaeaea; box-shadow: none; transition: 200ms ease-out; }
 
 /*************** Header bars * */
-.titlebar:not(headerbar), headerbar { padding: 0 6px; min-height: 46px; border-width: 0 0 1px; border-style: solid; border-color: #d5d5d5; border-radius: 0; background: #dcdcdc linear-gradient(to top, #efefef, #e8e8e8); box-shadow: inset 0 1px rgba(255, 255, 255, 0.8); /* Darken switchbuttons for headerbars. issue #1588 */ /* hide the close button separator */ }
+.titlebar:not(headerbar), headerbar { padding: 0 6px; min-height: 46px; border-width: 0 0 1px; border-style: solid; border-color: #d5d5d5; border-radius: 0; background: #dfdfdf linear-gradient(to top, #efefef, #e3e3e3); box-shadow: inset 0 1px rgba(255, 255, 255, 0.8); /* Darken switchbuttons for headerbars. issue #1588 */ /* hide the close button separator */ }
 
 .titlebar:backdrop:not(headerbar), headerbar:backdrop { border-color: #d5d5d5; background-color: #efefef; background-image: none; box-shadow: inset 0 1px rgba(255, 255, 255, 0.8); transition: 200ms ease-out; }
 
@@ -712,7 +712,7 @@ window.csd > .titlebar:not(headerbar) { padding: 0; background-color: transparen
 
 .titlebar:not(headerbar) separator { background-color: #ccc; }
 
-window.devel headerbar.titlebar:not(.selection-mode) { background: #efefef -gtk-icontheme("system-run-symbolic") 90% 0/256px 256px no-repeat, linear-gradient(to right, transparent 65%, rgba(53, 132, 228, 0.2)), linear-gradient(to top, #d8d4d0, #dfdcd8 3px, #ebebeb); color: rgba(46, 52, 54, 0.1); }
+window.devel headerbar.titlebar:not(.selection-mode) { background: #efefef -gtk-icontheme("system-run-symbolic") 90% 0/256px 256px no-repeat, linear-gradient(to right, transparent 65%, rgba(53, 132, 228, 0.2)), linear-gradient(to top, #d8d4d0, #dfdfdf 3px, #ebebeb); color: rgba(46, 52, 54, 0.1); }
 
 window.devel headerbar.titlebar:not(.selection-mode) label { color: #2e3436; }
 
@@ -1894,7 +1894,7 @@ colorchooser .popover.osd { border-radius: 5px; }
 .scale-popup button:hover { background-color: rgba(46, 52, 54, 0.1); border-radius: 5px; }
 
 /********************** Window Decorations * */
-decoration { border-radius: 8px 8px 0 0; border-width: 0px; box-shadow: 0 3px 9px 1px rgba(50, 50, 50, 0.25), 0 0 0 1px rgba(50, 50, 50, 0.2); margin: 10px; }
+decoration { border-radius: 8px 8px 0 0; border-width: 0px; box-shadow: 0 3px 9px 1px rgba(50, 50, 50, 0.25), 0 0 0 1px rgba(50, 50, 50, 0.1); margin: 10px; }
 
 decoration:backdrop { box-shadow: 0 3px 9px 1px transparent, 0 2px 6px 2px rgba(0, 0, 0, 0.2), 0 0 0 1px rgba(0, 0, 0, 0.18); transition: 200ms ease-out; }
 
